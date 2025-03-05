@@ -1,2 +1,2 @@
 8-lesson 
-crudmi VIEW orqali yaratdim 
+crudni VIEW orqali yaratdim 
